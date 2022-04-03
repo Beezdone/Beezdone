@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 **Beezdone/Beezdone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,3 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
+ 
+ My name is Clara Brd and I'm a student at ESIEA (Laval, France)
+ 
+<!-- - 🌱 I’m currently learning... _a lot of things actually_ 😆 but above all cybersecurity, networking... 
+
+ex de cv : https://github.com/ruppysuppy 
+
+-->

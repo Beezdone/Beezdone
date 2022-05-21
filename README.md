@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  -->
  
 I'm Clara, an IT student at ESIEA (France)  
-This is my GitHub page, my little sandbox mostly (currently, I use it only for educational/school purposes only).
+This is my GitHub page, my little sandbox mostly (I currently use it only for educational/school purposes only).
  
 <!-- - 🌱 I’m currently learning... _a lot of things actually_ 😆 but above all cybersecurity, networking... 
 
